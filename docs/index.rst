@@ -4,7 +4,7 @@ Dropbox File Permission Error: Comprehensive Guide to Diagnosis and Resolution
 
 Encountering a Dropbox file permission error can be frustrating and disruptive to your workflow. When you attempt to open, edit, sync, or delete a file and receive a message indicating that you lack the necessary permissions, it creates a roadblock that prevents you from accessing your own data. Permission errors can manifest in various ways, from simple "access denied" notifications to more complex issues where files appear locked or unmanageable.
 
-The most common manifestation of this problem is the error message:
+The most common manifestation of this problem is the error message
 
 
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
