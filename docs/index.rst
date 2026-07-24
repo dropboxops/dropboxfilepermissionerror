@@ -6,11 +6,13 @@ Encountering a Dropbox file permission error can be frustrating and disruptive t
 
 The most common manifestation of this problem is the error message:
 
-.. image:: https://img.shields.io/badge/Get%20Support-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
-   :width: 250px
+
+.. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :width: 200px
    :align: center
-   :target:https://getchatsupport.live/
-   :alt:Get support Button
+   :target: https://getchatsupport.live/
+   :alt: Support Now Button
+
 
 
 "It appears that you don't have permission to view this file. Check the permissions and try again." This can occur when trying to open, delete, or rename files. When inspecting the file properties, you may also see the message: "You must have Read permissions to view the properties of this object" .
